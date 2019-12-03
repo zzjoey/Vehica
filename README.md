@@ -33,7 +33,8 @@
 
 ### 📃Tips
 
-**It may take serval seconds to run the program related to the hardware, please wait after start.**
+- **It may take serval seconds to run the program related to the hardware, please wait after start.**
+- Trained Models are [here](https://github.com/joey66666/vehicle-classify/releases)
 
 ### ⚙️Dependencies 
 
@@ -71,7 +72,9 @@
 
 ### 📃注意
 
-**根据不同硬件情况，识别可能耗费数十秒钟，请耐心等待**
+1. **根据不同硬件情况，识别可能耗费数十秒钟，请耐心等待**
+
+2. 训练后的模型在[这里](https://github.com/joey66666/vehicle-classify/releases)
 
 ### ⚙️依赖
 
