@@ -7,46 +7,9 @@
   </p>
 </p>
 
-**[中文版](#chinese)**
+**[English Version](#English)**
 
-> Vehicle brand &amp; model classification based on [RetinaNet](https://github.com/fizyr/keras-retinanet) & [Stanford Car Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
-
-### ✔️Feature
-
-1. Detect vehicle in the image and mark with box. (Work on 196 brands)
-2. Show the brand of the vehicle with probability.
-3. Time spent during the detection.
-
-### 👋🏻How to start
-
-> cd vehicle_UI
->
-> conda install tensorflow==1.14.0 opencv numpy matplotlib keras
->
-> pip install pyqt5 keras-retinanet 
->
-> python vehicle_ui.py
-
-### 📸Screenshots
-
-<img src="pics/ui_en.png" style="zoom:50%;" />
-
-### 📃Tips
-
-- **It may take serval seconds to run the program related to the hardware, please wait after start.**
-- Trained Models are [here](https://github.com/joey66666/vehicle-classify/releases)
-
-### ⚙️Dependencies 
-
-- keras-retinanet
-- Pyqt5
-- Opencv
-- Tensorflow
-- Matplotlib
-
-----
-
-# <span id="chinese">🚖车辆型号检测识别</span>
+# 🚖车辆型号检测识别
 
 > 基于 [RetinaNet](https://github.com/fizyr/keras-retinanet) 和 [Stanford Car Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) 的车辆型号检测识别方案
 
@@ -58,7 +21,9 @@
 
 ### 👋🏻如何启动
 
-> cd vehicle_UI
+> git clone https://github.com/joey66666/vehicle-classify.git
+> 
+> cd vehicle-classify/vehicle_UI
 >
 > conda install tensorflow==1.14.0 opencv numpy matplotlib keras
 >
@@ -77,6 +42,47 @@
 2. 训练后的模型在[这里](https://github.com/joey66666/vehicle-classify/releases)
 
 ### ⚙️依赖
+
+- keras-retinanet
+- Pyqt5
+- Opencv
+- Tensorflow
+- Matplotlib
+
+---
+
+# <span id="chinese">🚖Vehicle-Classify</span>
+
+> Vehicle brand &amp; model classification based on [RetinaNet](https://github.com/fizyr/keras-retinanet) & [Stanford Car Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+
+### ✔️Feature
+
+1. Detect vehicle in the image and mark with box. (Work on 196 brands)
+2. Show the brand of the vehicle with probability.
+3. Time spent during the detection.
+
+### 👋🏻How to start
+
+> git clone https://github.com/joey66666/vehicle-classify.git
+> 
+> cd vehicle-classify/vehicle_UI
+> 
+> conda install tensorflow==1.14.0 opencv numpy matplotlib keras
+>
+> pip install pyqt5 keras-retinanet 
+>
+> python vehicle_ui.py
+
+### 📸Screenshots
+
+<img src="pics/ui_en.png" style="zoom:50%;" />
+
+### 📃Tips
+
+- **It may take serval seconds to run the program related to the hardware, please wait after start.**
+- Trained Models are [here](https://github.com/joey66666/vehicle-classify/releases)
+
+### ⚙️Dependencies 
 
 - keras-retinanet
 - Pyqt5
