@@ -79,7 +79,7 @@
 
 ### 📃Tips
 
-- **It may take serval seconds to run the program related to the hardware, please wait after start.**
+- **It may take serval seconds to run the program related to the hardware, please wait after starting.**
 - Trained Models are [here](https://github.com/joey66666/vehicle-classify/releases)
 
 ### ⚙️Dependencies 
