@@ -28,6 +28,12 @@
 > conda install tensorflow==1.14.0 opencv numpy matplotlib keras
 >
 > pip install pyqt5 keras-retinanet 
+> 
+> cd keras_retinanet
+>
+> mkdir snapshots
+>
+> wget https://github.com/joey66666/vehicle-classify/releases/download/0.01/converted_restnet50_model.h5
 >
 > python vehicle_ui_cn.py
 
@@ -66,10 +72,16 @@
 > git clone https://github.com/joey66666/vehicle-classify.git
 > 
 > cd vehicle-classify/vehicle_UI
-> 
+>
 > conda install tensorflow==1.14.0 opencv numpy matplotlib keras
 >
 > pip install pyqt5 keras-retinanet 
+> 
+> cd keras_retinanet
+>
+> mkdir snapshots
+>
+> wget https://github.com/joey66666/vehicle-classify/releases/download/0.01/converted_restnet50_model.h5
 >
 > python vehicle_ui.py
 
