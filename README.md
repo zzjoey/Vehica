@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🚖Vehicle-Classify</h1>
+  <h1 align="center">🚖Vehica: Vehicle classification based on RetinaNet</h1>
   <p align="center">
     <a href="LICENSE"><img src="https://img.shields.io/github/license/joey66666/vehicle-classify?color=blue&style=flat-square"></a>
     <a href="https://github.com/joey66666/vehicle-classify/"><img src="https://img.shields.io/badge/Platform-Mac%20%7C%20Windows%20%7C%20Linux%20-brightgreen?color=red&style=flat-square"></a>
