@@ -9,7 +9,7 @@
 
 **[中文版](#Chinese)**
 
-# <span id="English">🚖Vehicle-Classify</span>
+<!-- # <span id="English">🚖Vehicle-Classify</span> -->
 
 > Vehicle brand &amp; model classification based on [RetinaNet](https://github.com/fizyr/keras-retinanet) & [Stanford Car Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
